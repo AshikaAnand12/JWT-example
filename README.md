@@ -13,3 +13,5 @@ Steps to create:
 3. Copy the contents of index.js into index.js locally or just download it
 
 To run: node index.js
+
+Source of learning: https://www.simplilearn.com/tutorials/nodejs-tutorial/jwt-authentication
