@@ -1,4 +1,4 @@
-# JWT-test
+# JWT-example
 
 1. JWT token creation during login
 2. Usage of JWT token:
